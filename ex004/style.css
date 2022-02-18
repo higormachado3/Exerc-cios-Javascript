@@ -1,0 +1,16 @@
+@charset "UFT-8";
+
+
+body
+{
+    background-color: rgba(150, 150, 150, 0.247);
+}
+
+div#main
+{
+    height: 150px;
+    width: 500px;
+    background-color: rgba(127, 150, 255, 0.699);
+    text-align: center;
+    
+}
